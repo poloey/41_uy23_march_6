@@ -1,3 +1,10 @@
+## download video 
+https://drive.google.com/file/d/1gNJXICVNVMNYIvRycDNmAXzfT-YCdMa3/view?usp=sharing
+
+## or watch on youtube 
+https://www.youtube.com/watch?v=l8lA34LZ-DI
+
+
 ## installing laravel 
 
 ~~~php
