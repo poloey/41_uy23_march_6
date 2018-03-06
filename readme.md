@@ -75,7 +75,7 @@ php artisan db:seed
 
 ~~~php
 php artisan migrate --seed 
-# or if you want to dropping earlier database 
+# or if you want to dropping earlier database tables and then seeding
 php artisan migrate:fresh --seed 
 ~~~
 
