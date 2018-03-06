@@ -45,7 +45,7 @@ $table->integer('complete')->default(0);
 php artisan migrate
 ~~~
 
-## dropping whole database and create again 
+## dropping all tables from database and create again 
 
 ~~~php
 php artisan migrate:fresh
