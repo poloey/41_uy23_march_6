@@ -12,7 +12,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ~~~
 
-## Making default string length  inside AppServiceProvider boot method 
+## defining default string maximum 191  chracter length inside AppServiceProvider boot method (If you using older mysql version. Normally we all are using older version)     
 
 ~~~php
   Schema::defaultStringLength(191);
